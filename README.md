@@ -5,7 +5,7 @@
 <h><img align="left" src="https://github.com/AhmadMD16/AhmadMD16/blob/main/welcome-message.gif"</h>
 <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadMD16&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/>
 
-<img src="https://github.com/AhmadMD16/AhmadMD16/blob/main/Animation-programmer.gif" alt="dev_object" align="right" width="450" />
+<img src="https://github.com/AhmadMD16/AhmadMD16/blob/main/Animation-programmer.gif" alt="dev_object" align="right" width="400" />
   
 ### About me:
 * 👨‍💻 I'm currently working on projects using Python and C++
