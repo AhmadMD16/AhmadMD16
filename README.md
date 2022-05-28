@@ -6,7 +6,10 @@
 <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadMD16&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/>
 
 <img src="https://github.com/AhmadMD16/AhmadMD16/blob/main/Animation-programmer.gif" alt="dev_object" align="right" width="400" />
-  
+
+<h4 align="right">Visitor's count</h4>
+<p align="right"><img src="https://profile-counter.glitch.me/{AhmadMD16}/count.svg" alt="AhmadMD16 :: Visitor's Count" /></p>
+
 ### About me:
 * 👨‍💻 I'm currently working on projects using Python and C++
 * ➡️💪🏼 Next Goal: Learn Front-end & Back-end development
@@ -20,6 +23,3 @@
     <img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="Ahmad's LinkedIn Profile" height="30" width="30">
    </a>
 </p>
-
-<h4 align="right">Visitor's count</h4>
-<p align="right"><img src="https://profile-counter.glitch.me/{AhmadMD16}/count.svg" alt="AhmadMD16 :: Visitor's Count" /></p>
