@@ -1,13 +1,11 @@
-<h1 align="center">Hey there! I'm Ahmad Mohamad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h3 align="center">Electrical engineering student who has a passion for programming.</h3>
+<h1 align="center">Hey there! I'm Ahmad Mohamad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
+<h3 align="left"><img src="https://komarev.com/ghpvc/?username=AhmadMD16&label=Profile%20views&color=1b5ec4&style=flat"alt="AhmadMD16"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electrical engineering student who has a passion for programming.</h3>
 
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=AhmadMD16&show_icons=true&theme=github_dark"/>
 <h><img align="left" src="https://github.com/AhmadMD16/AhmadMD16/blob/main/welcome-message.gif"</h>
 <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadMD16&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/>
 
 <img src="https://github.com/AhmadMD16/AhmadMD16/blob/main/Animation-programmer.gif" alt="dev_object" align="right" width="370" />
-  
-<br />
   
 ### About me:
 * 👨‍💻 I'm currently working on projects using Python and C++
@@ -23,5 +21,3 @@
   </a>
 </p>
 
-<h3 align="right">Visitor's count</h3>
-<p align="right"><img src="https://profile-counter.glitch.me/{AhmadMD16}/count.svg" alt="AhmadMD16 :: Visitor's Count" /></p>
