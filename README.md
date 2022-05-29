@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! I'm Ahmad Mohamad <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
-<h3 align="left"><img src="https://komarev.com/ghpvc/?username=AhmadMD16&label=Profile%20views&color=1b5ec4&style=flat"alt="AhmadMD16"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electrical engineering student who has a passion for programming.</h3>
+<h3 align="left"><img src="https://komarev.com/ghpvc/?username=AhmadMD16&label=Profile%20views&color=1b5ec4&style=flat"alt="AhmadMD16"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electrical engineering student who has a passion for programming.</h3>
 
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=AhmadMD16&show_icons=true&theme=github_dark"/>
 <h><img align="left" src="https://github.com/AhmadMD16/AhmadMD16/blob/main/welcome-message.gif"</h>
