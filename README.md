@@ -2,7 +2,7 @@
 <h3 align="left"><a href="https://github.com/AhmadMD16"><img src="https://komarev.com/ghpvc/?username=AhmadMD16&label=Profile%20views&color=1b5ec4&style=flat"alt="AhmadMD16"/></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Electrical engineering student who has a passion for programming.</h3>
 
 <img width="50%" align="left" src="https://github-readme-stats.vercel.app/api?username=AhmadMD16&show_icons=true&theme=github_dark"/>
-<h><img width="25%" align="left" src="https://github.com/AhmadMD16/AhmadMD16/blob/main/welcome-message.gif"</h>
+<h><img align="left" src="https://github.com/AhmadMD16/AhmadMD16/blob/main/welcome-message.gif"</h>
 <img width="50%" align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=AhmadMD16&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/>
 
 <!--
