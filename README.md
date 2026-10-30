@@ -39,7 +39,11 @@
 ### 📊 GitHub stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=AhmadMD16&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=AhmadMD16&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D"/>
+    <source media="(prefers-color-scheme: light)" srcset="https://streak-stats.demolab.com/?user=AhmadMD16&theme=default&hide_border=true&background=FFFFFF&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&date_format=M%20j%5B%2C%20Y%5D"/>
+    <img src="https://streak-stats.demolab.com/?user=AhmadMD16&theme=default&hide_border=true&background=FFFFFF&ring=1F6FEB&fire=1F6FEB&currStreakLabel=1F6FEB&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
+  </picture>
 </div>
 
 <div align="center">
