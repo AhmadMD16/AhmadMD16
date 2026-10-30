@@ -39,9 +39,6 @@
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AhmadMD16&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmadMD16&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff" alt="Top languages"/>
-  <br/>
   <img src="https://streak-stats.demolab.com/?user=AhmadMD16&theme=github-dark-blue&hide_border=true&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub streak"/>
 </div>
 
